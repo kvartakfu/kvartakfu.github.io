@@ -1,0 +1,17 @@
+h1 {
+    font-size: 56px; /* Larger font size for the title */
+}
+
+.large-answer p {
+    font-size: 48px; /* Larger font size for the answer */
+}
+
+.news-item img {
+    object-fit: cover;
+}
+
+/* Optional: Adjust footer styling */
+footer {
+    color: #666;
+    font-size: 16px;
+}
